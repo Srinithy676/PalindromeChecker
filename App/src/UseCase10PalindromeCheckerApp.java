@@ -1,7 +1,7 @@
 /**Use Case 10: Case-Insensitive & Space-Ignored Palindrome
  @author Developer
  @version 2.0**/
-```java id="k8f2p9"
+
 import java.util.Scanner;
 
 public class UseCase10PalindromeCheckerApp {
