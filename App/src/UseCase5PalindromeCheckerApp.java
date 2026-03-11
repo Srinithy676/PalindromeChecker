@@ -1,6 +1,6 @@
 /**Use Case 5: Stack-Based Palindrome Checker
  @author Developer
-@version 2.0**/
+@version 5.0**/
 import java.util.Scanner;
 import java.util.Stack;
 public class UseCase5PalindromeCheckerApp {
