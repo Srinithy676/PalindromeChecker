@@ -1,6 +1,6 @@
 /**Use Case 8: Linked List Based Palindrome Checker
  @author Developer
-@version 2.0**/
+@version 8.0**/
 import java.util.Scanner;
 
 class Node {
