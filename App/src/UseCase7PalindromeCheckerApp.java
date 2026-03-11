@@ -1,6 +1,6 @@
 /**Use Case 7: Deque-Based Optimized Palindrome Checker
  @author Developer
-@version 2.0**/
+@version 7.0**/
 import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Scanner;
