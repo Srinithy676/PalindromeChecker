@@ -1,6 +1,6 @@
 /**Use Case 9: Recursive Palindrome Checker
  @author Developer
- @version 2.0**/import java.util.Scanner;
+ @version 9.0**/import java.util.Scanner;
 
 public class UseCase9PalindromeCheckerApp {
 
