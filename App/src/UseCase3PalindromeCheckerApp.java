@@ -1,6 +1,6 @@
 /**Use Case 3: Palindrome Checking Using String Reverse
 @author Developer
-@version 2.0**/
+@version 3.0**/
 import java.util.Scanner;
 public class UseCase3PalindromeCheckerApp {
     public static void main(String[] args){
