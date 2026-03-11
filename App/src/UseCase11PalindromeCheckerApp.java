@@ -1,6 +1,6 @@
 /**Use Case 11: Object-Oriented Palindrome Service
  @author Developer
- @version 2.0**/
+ @version 11.0**/
 import java.util.Scanner;
 import java.util.Stack;
 
