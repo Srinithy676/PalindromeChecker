@@ -1,6 +1,6 @@
 /**Use Case 4: Character Array Based Palindrome Check
  @author Developer
-@version 2.0**/
+@version 4.0**/
 import java.util.Scanner;
 public class UseCase4PalindromeCheckerApp {
     public static void main(String[] args){
